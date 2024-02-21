@@ -1,0 +1,11 @@
+certifi==2024.2.2
+charset-normalizer==3.3.2
+click==8.1.7
+gTTS==2.5.1
+idna==3.6
+packaging==23.2
+pillow==10.2.0
+PyPDF2==3.0.1
+pyttsx3==2.90
+requests==2.31.0
+urllib3==2.2.1
